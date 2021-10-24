@@ -2,9 +2,9 @@
   "name": "flocking-stearing",
   "version": "1.0.0",
   "description": "a set of different flocking and steering behaviours",
-  "main": "index.js",
+  "main": "source/index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "watch": "tsc -w"
   },
   "repository": {
     "type": "git",
