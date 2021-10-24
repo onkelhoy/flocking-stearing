@@ -1,0 +1,27 @@
+{
+  "name": "flocking-stearing",
+  "version": "1.0.0",
+  "description": "a set of different flocking and steering behaviours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onkelhoy/flocking-stearing.git"
+  },
+  "keywords": [
+    "flocking",
+    "stearing",
+    "boids"
+  ],
+  "author": "Henry Pap",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onkelhoy/flocking-stearing/issues"
+  },
+  "homepage": "https://github.com/onkelhoy/flocking-stearing#readme",
+  "dependencies": {
+    "typescript": "^4.4.4"
+  }
+}
